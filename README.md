@@ -1,5 +1,10 @@
 # Real-time Card Detection using Template Matching
 
+## Demo Video
+**[Watch on YouTube](https://youtu.be/qIaZIEO_7W8)**
+
+---
+
 An application for real-time detection and tracking of 52 playing cards from computer screen using **Template Matching** technique with OpenCV.
 
 ## Overview
